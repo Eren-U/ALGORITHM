@@ -1,0 +1,3 @@
+C:/Users/Errain/CLionProjects/asd1/cmake-build-debug/CMakeFiles/asd1.dir
+C:/Users/Errain/CLionProjects/asd1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Errain/CLionProjects/asd1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
